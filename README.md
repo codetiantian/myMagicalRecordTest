@@ -1,0 +1,2 @@
+# myMagicalRecordTest
+coreData使用MagicalRecord框架进行数据的存储，以及关于数据的迁移
